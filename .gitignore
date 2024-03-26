@@ -1,0 +1,19 @@
+# created by virtualenv automatically
+*
+__pycache__/
+
+
+venv/
+env/
+
+.vscode/
+.idea/
+
+
+*.out
+*.log
+
+.env
+*.env.local
+
+tasks.db
